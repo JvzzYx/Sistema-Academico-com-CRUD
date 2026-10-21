@@ -1,27 +1,69 @@
-# Sistema UNIP com CRUD
+# 🎓 Sistema Acadêmico UNIP com CRUD
 
-Sistema desenvolvido em Java utilizando Programação Orientada a Objetos (POO).
-Este é o meu primeiro projeto no GitHub.
+## 📌 Sobre o Projeto
 
-## Funcionalidades
-- Cadastro de aluno
+Este projeto consiste no desenvolvimento de um **Sistema Acadêmico em Java**, utilizando conceitos de **Programação Orientada a Objetos (POO)**.
 
-## Tecnologias utilizadas
-- Java
-- Programação Orientada a Objetos (POO)
+Foi meu primeiro projeto publicado no GitHub e tem como objetivo colocar em prática os conhecimentos adquiridos durante meus estudos em Ciência da Computação.
 
-## Como executar
+O sistema está em desenvolvimento e será aprimorado conforme avanço nos estudos, implementando novas funcionalidades e melhorando a organização do código.
 
-Requisitos:
-- JDK 17 ou superior
+## 🎯 Objetivos
 
-Para executar:
-1. Execute a classe principal
+- Praticar Programação Orientada a Objetos (POO).
+- Desenvolver a lógica de programação.
+- Aprender a estruturar e organizar classes.
+- Aplicar conceitos de encapsulamento, herança e polimorfismo.
+- Aprimorar a implementação de operações CRUD.
+- Desenvolver soluções mais organizadas e eficientes.
 
-## Observações
+## ⚙️ Funcionalidades
 
-Este sistema ainda está em desenvolvimento.
-Atualmente, suporta apenas o cadastro de um único aluno.
+### ✅ Implementadas
+- Cadastro de aluno.
+- Armazenamento de informações de um aluno.
+- Organização do sistema utilizando classes Java.
 
-Futuramente, será implementado:
-- Uso de ArrayList
+### 🚧 Em desenvolvimento
+- Cadastro de múltiplos alunos.
+- Implementação de `ArrayList`.
+- Operações CRUD completas:
+  - **Create:** cadastrar registros.
+  - **Read:** consultar informações.
+  - **Update:** atualizar registros.
+  - **Delete:** excluir registros.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Java:** linguagem de programação.
+- **POO:** Programação Orientada a Objetos.
+- **Visual Studio Code:** ambiente de desenvolvimento.
+- **Git e GitHub:** versionamento e armazenamento do projeto.
+
+## ▶️ Como Executar
+
+**Requisitos:**
+- JDK 17 ou superior.
+- Ambiente configurado para executar Java.
+
+**Passos:**
+1. Clone ou baixe este repositório.
+2. Abra o projeto no Visual Studio Code.
+3. Localize a classe principal do sistema.
+4. Execute o método `main()`.
+
+## 📈 Melhorias Futuras
+
+- Implementar `ArrayList` para armazenar vários alunos.
+- Desenvolver operações completas de cadastro, consulta, atualização e exclusão.
+- Melhorar as validações dos dados.
+- Organizar e modularizar o código.
+- Adicionar novas funcionalidades acadêmicas.
+
+## 📝 Observações
+
+Este sistema ainda está em desenvolvimento e atualmente suporta apenas o cadastro de um único aluno.
+
+O projeto representa uma etapa do meu aprendizado em Java, com foco no desenvolvimento de habilidades práticas e na compreensão dos conceitos de Programação Orientada a Objetos.
+
+**Meu objetivo é evoluir continuamente, transformando os conhecimentos adquiridos durante os estudos em projetos práticos.**
